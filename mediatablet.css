@@ -1,0 +1,195 @@
+@media screen and (min-width:767px) and (max-width:1024px) {
+    section {
+        height: 1200px;
+    }
+
+    .second {
+        flex-direction: column;
+        height: 1200px;
+    }
+
+    .bb1 {
+        position: relative;
+        top: 5%;
+        width: 90%;
+    }
+
+    .bb2 {
+        position: relative;
+        bottom: 7%;
+        width: 90%;
+    }
+
+    .section3 {
+        height: 2600px;
+    }
+
+    .fourth {
+        flex-direction: column;
+        height: 2600px;
+    }
+
+    .dd1 {
+        width: 90%;
+        height: 800px;
+    }
+
+    .dd2 {
+        position: relative;
+        bottom: 2%;
+        width: 90%;
+        height: 800px;
+    }
+
+    .dd3 {
+        position: relative;
+        bottom: 3%;
+        width: 90%;
+        height: 800px;
+    }
+
+    .section4 {
+        height: 600px;
+    }
+
+    .fifth {
+        flex-wrap: wrap;
+        margin-top: 0;
+        margin-bottom: 0;
+        height: 600px;
+    }
+
+    .ff1 {
+        height: 220px;
+        width: 45%;
+    }
+
+    .ff2 {
+        height: 220px;
+        width: 45%;
+    }
+
+    .ff3 {
+        height: 220px;
+        width: 45%;
+    }
+
+    .ff4 {
+        height: 220px;
+        width: 45%;
+    }
+
+    .section5 {
+        height: 1000px;
+    }
+
+    .sixth {
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+        height: 1000px;
+    }
+
+    .hh1 {
+        height: 400px;
+        width: 80%;
+    }
+
+    .hh2 {
+        height: 400px;
+        width: 80%;
+    }
+
+    .section9 {
+        height: 2800px;
+    }
+
+    .thetenth {
+        height: 2800px;
+        flex-direction: column;
+        flex-wrap: wrap;
+        gap: 20px;
+        position: relative;
+        top: 90px;
+    }
+
+    .ii1 {
+        width: 90%;
+        height: 30%;
+    }
+
+    .ii2 {
+        width: 90%;
+        height: 30%;
+    }
+
+    .ii3 {
+        width: 90%;
+        height: 30%;
+    }
+
+    .section10 {
+        height: 1300px;
+    }
+
+    .onbir {
+        height: 1300px;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+
+    }
+
+    .ll1 {
+        height: 300px;
+        width: 90%;
+    }
+
+    .ll2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: 900px;
+        width: 92%;
+        gap: 20px;
+    }
+
+    .ll21 {
+        width: 90%;
+        height: 400px;
+    }
+
+    .ll22 {
+        width: 90%;
+        height: 400px;
+    }
+
+    .section11 {
+        height: 1000px;
+    }
+
+    .oniki {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        flex-direction: column;
+        height: 1000px;
+
+    }
+
+    .tt1 {
+        height: 450px;
+        width: 80%;
+    }
+
+    .tt2 {
+        height: 450px;
+        width: 80%;
+    }
+}

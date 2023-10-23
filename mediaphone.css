@@ -1,0 +1,329 @@
+@media screen and (min-width:320px) and (max-width:767px) {
+    section {
+        height: 430px;
+    }
+
+    .second {
+        flex-direction: column;
+        height: 430px;
+        display: flex;
+        justify-content: center;
+        gap: 2%;
+    }
+
+    .bb1 {
+        height: 170px;
+        position: relative;
+        width: 99%;
+    }
+
+    .bb2 {
+        height: 220px;
+        position: relative;
+        width: 99%;
+    }
+
+    .section2 {
+        height: 150px;
+    }
+
+    .third {
+        height: 150px;
+    }
+
+    .cc1 {
+        height: 100px;
+        width: 90%;
+    }
+
+    .section3 {
+        height: 570px;
+    }
+
+    .fourth {
+        flex-direction: column;
+        height: 570px;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .dd1 {
+        width: 90%;
+        height: 150px;
+    }
+
+    .dd2 {
+        position: relative;
+        width: 90%;
+        height: 150px;
+    }
+
+    .dd3 {
+        position: relative;
+        width: 90%;
+        height: 150px;
+    }
+
+    .section4 {
+        height: 900px;
+    }
+
+    .fifth {
+        position: relative;
+        top: 70px;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        gap: 20px;
+        justify-content: center;
+        height: 900px;
+    }
+
+    .ff1 {
+        height: 200px;
+        width: 90%;
+    }
+
+    .ff2 {
+        height: 200px;
+        width: 90%;
+    }
+
+    .ff3 {
+        height: 200px;
+        width: 90%;
+    }
+
+    .ff4 {
+        height: 200px;
+        width: 90%;
+    }
+
+    .section5 {
+        height: 500px;
+    }
+
+    .sixth {
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+        height: 500px;
+    }
+
+    .hh1 {
+        height: 200px;
+        width: 80%;
+    }
+
+    .hh2 {
+        height: 200px;
+        width: 80%;
+    }
+
+    .section6 {
+        height: 520px;
+    }
+
+    .seventh {
+        height: 520px;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+    }
+
+    .gg1 {
+        width: 99%;
+        height: 90px;
+    }
+
+    .gg2 {
+        width: 99%;
+        height: 400px;
+    }
+
+    .section7 {
+        height: 540px;
+    }
+
+    .eighth {
+        height: 540px;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+    }
+
+    .jj1 {
+        background-color: blueviolet;
+        width: 97%;
+        height: 240px;
+    }
+
+    .jj2 {
+        background-color: blueviolet;
+        width: 97%;
+        height: 240px;
+    }
+
+    .section8 {
+        height: 200px;
+    }
+
+    .ninth {
+        position: relative;
+        bottom: 20px;
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .kk1 {
+        width: 99%;
+        height: 180px;
+    }
+
+    .section9 {
+        height: 900px;
+    }
+
+    .thetenth {
+        height: 900px;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        position: relative;
+        top: 40px;
+    }
+
+    .ii1 {
+        width: 90%;
+        height: 29%;
+    }
+
+    .ii2 {
+        width: 90%;
+        height: 29%;
+    }
+
+    .ii3 {
+        width: 90%;
+        height: 29%;
+    }
+
+    .section10 {
+        height: 600px;
+    }
+
+    .onbir {
+        width: 99%;
+        height: 600px;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ll1 {
+        height: 150px;
+        width: 99%;
+    }
+
+    .ll2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: 360px;
+        width: 99%;
+        gap: 20px;
+    }
+
+    .ll21 {
+        width: 90%;
+        height: 160px;
+    }
+
+    .ll22 {
+        width: 90%;
+        height: 160px;
+    }
+
+    .section11 {
+        height: 400px;
+    }
+
+    .oniki {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        flex-direction: column;
+        height: 400px;
+    }
+
+    .tt1 {
+        height: 180px;
+        width: 99%;
+    }
+
+    .tt2 {
+        height: 180px;
+        width: 99%;
+    }
+
+    .section12 {
+        height: 200px;
+    }
+
+    .onuc {
+        height: 200px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .pp1 {
+        width: 99%;
+        height: 180px;
+    }
+
+    .foother13 {
+
+        height: 500px;
+    }
+
+    .ondort {
+        height: 500px;
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .vv1 {
+        position: relative;
+        top: 10px;
+        width: 99%;
+        height: 170px;
+    }
+
+    .vv2 {
+        position: relative;
+        top: 10px;
+        width: 99%;
+        height: 130px;
+    }
+
+    .vv3 {
+        position: relative;
+        top: 10px;
+        width: 99%;
+        height: 100px;
+    }
+}
